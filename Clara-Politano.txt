@@ -1,0 +1,63 @@
+    1. What is Semantic HTML? 
+        Its an element clearly describes its meaning to both the browser and the developer.
+
+    2. What is HTML used for?
+        It allows the user to create and structure sections, paragraphs,
+        headings, links, and blockquotes for web pages and applications.
+
+    3. What is an attribute and where do we put it?
+        Attributes are always specified in the start tag (or opening tag),
+        and usually consists of name/value pairs like name="value" .
+    
+    4. What is the h1 tag used for? How many times should I use it on a page?
+        The h1 is an HTML tag that indicates a heading on a website. Only used once.
+
+
+    5. Name two tags that have required attributes.
+        Two examples are img and a.
+
+
+    6. What do we put in the head of our HTML document?
+        Every HTML document must have a TITLE element in the HEAD,
+        section.
+
+    7. What is an id?
+        The id attribute specifies a unique id for an HTML element
+
+    8. What elements can I add an id to? 
+        he HTML id attribute is used to specify a unique id for an HTML element. You cannot,
+         have more than one element with the same id in an HTML document.
+        
+
+    9. How many times can I use the same id on a page? 
+        The 'id' property can be used multiple times in a page
+
+    10. What is a class? he HTML class attribute is used to specify a class
+
+    11. What elements can I add a class to? The class attribute can
+         be used on any HTML element
+
+    12. How many times can I use the same class on a page? 
+
+    13. How do I get my link to open in a new tab?
+        HTML link open in a new tab by adding the target=”_blank” attribute.
+
+    14. What is the alt attribute in the image tag used for? The required alt attribute specifies an alternate text for an image,
+     if the image cannot be displayed. 
+
+    15. How do I reference an id?
+        The #id selector styles,
+        the element with the specified id.
+
+    16. What is the difference between a section and a div?
+        The <section> tag defines sections in a document, such as chapters,
+         headers, footers, or any other sections of the document. The <div> tag defines a division,
+        or a section in an HTML document.
+
+    17. What is CSS used for?
+        CSS is used to define styles for your web pages, including the design, layout and variations,
+        in display for different devices and screen sizes. 
+
+    18. How to we select an element?  
+        The tag is put into the <select> tag.
+    
